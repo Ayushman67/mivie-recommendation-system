@@ -5,6 +5,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 
 How to run the project?
+
 Clone this repository in your local system.
 Install all the libraries mentioned in the requirements.txt file.
 Replace YOUR_API_KEY in both the places (line no. 23 and 43) of static/recommend.js file.
