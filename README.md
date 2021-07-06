@@ -1,1 +1,1 @@
-# mivie-recommendation-system
+# movie-recommendation-system
